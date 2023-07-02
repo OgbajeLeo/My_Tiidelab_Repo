@@ -1,9 +1,9 @@
 <!-- Git Command for Staging a Change -->
-git add 
+git add .
 
 <!-- Git Command for Commiting and Change -->
-git commit
+git commit -m "Commit Message"
 
 <!-- Git Command for Pushing a Committed change -->
-git push
+git push [remote name] [branch name]
 
